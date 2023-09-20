@@ -52,16 +52,4 @@ Agora que já instalou o **Cypress** no seu projeto e fez as primeiras configura
   ```
 </details>
 
-4 - Siga dos passos 1 ao 3 para outros comportamentos possíveis
-
-## O que fazer caso eu tenha dúvidas?
-
-Podem entrar em contato no canal `#sd-34-dúvidas` através dos nosso Fluxos de Dúvidas que o Time de Instrução irá dar suporte.
-
-Além disso, não deixe de contar com toda a turma e talvez criar grupos de estudos para se apoiar no aprendizado dessa nova tecnologia 😉
-
----
-
-:computer: _Que tal compartilhar o resultado do seu aprendizado sobre Cypress no LinkedIn quando concluir? Sem dúvidas é uma ótima maneira de mostrar sua jornada de aprendizado e pode ajudar a criar conexões com outros profissionais da sua área._ :rocket:
-
 _Obs.: Arquivos disponibilizados são fruto do desafio [Calculator app](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) do site Frontend Mentor._
